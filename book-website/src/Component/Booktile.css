@@ -1,0 +1,28 @@
+.book{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+.contain{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.img-book{
+    height: 261px;
+    width: 200px
+}
+.heading{
+    text-align: center;
+}
+.container-fluid{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.ulContainer{
+    
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+}
